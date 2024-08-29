@@ -4,6 +4,6 @@ Just a fun pizza delivery project with React. This project mainly explores React
 
 ## Tech stacks
 
-💥 **Routing** \_\_ **React Router** &nbsp; <img src="https://raw.githubusercontent.com/remix-run/react-router/main/logo/logo.png" alt="React Router Logo" width="24" />
-💥 **Styling** \_\_ **Tailwind CSS** &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="24" /> 
-💥 **UI State Management** \_\_ **Redux** &nbsp; <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Logo" width="24" />
+💥 **Routing** \_\_ **React Router** &nbsp; <img src="https://reactrouter.com/_brand/react-router-stacked-color.png" alt="React Router Logo" width="24" />     
+💥 **Styling** \_\_ **Tailwind CSS** &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="24" />  
+💥 **UI State Management** \_\_ **Redux** &nbsp; <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Logo" width="24" />  
